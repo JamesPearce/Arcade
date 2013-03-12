@@ -1,0 +1,8 @@
+﻿<Window x:Class="wSnake"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="wSnake" Height="300" Width="300">
+    <Grid x:Name="grdMain">
+        
+    </Grid>
+</Window>

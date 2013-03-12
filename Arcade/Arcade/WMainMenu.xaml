@@ -1,0 +1,9 @@
+﻿<Window x:Class="WMainMenu"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Arcade" Height="350" Width="525">
+    <StackPanel>
+        <Button x:Name="btnButtonStamp" Click="StartGame">Button Stamp</Button>
+        <Button x:Name="btnSnake" Click="StartGame">Snake</Button>
+    </StackPanel>
+</Window>
